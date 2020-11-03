@@ -1,7 +1,13 @@
-### Hi there 👋
-
-![](https://github-readme-stats.vercel.app/api?username=Cyunrei&show_icons=true)
-
+### Hi there, I'm Cyunrei!👋
+I'm a sophomore student in software engineering.  
+About me 👉 [details](https://blog.cyunrei.moe/about)
+### 🌱 I’m currently learning 
+- Deep learning
+- Medical image processing
+### 📊 My statistics
+![Cyunrei's GitHub Status](https://github-readme-stats.vercel.app/api?username=Cyunrei&show_icons=true) 
+### 📫 How to reach me: 
+Email: cyunrei@gmail.com
 <!--
 **Cyunrei/Cyunrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
