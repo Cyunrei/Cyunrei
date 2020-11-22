@@ -4,10 +4,12 @@ About me 👉 [details](https://blog.cyunrei.moe/about)
 ### 🌱 I’m currently learning 
 - Deep learning
 - Medical image processing
-### 📊 My statistics
-![Cyunrei's GitHub Status](https://github-readme-stats.vercel.app/api?username=Cyunrei&show_icons=true) 
+### 🌐 Website
+[Cyunrei's Blog](https://blog.cyunrei.moe) | [Cyunreiの笔记本](https://notes.cyunrei.moe)
 ### 📫 How to reach me: 
 Email: cyunrei@gmail.com
+### 📊 My statistics
+![Cyunrei's GitHub Status](https://github-readme-stats.vercel.app/api?username=Cyunrei&show_icons=true) 
 <!--
 **Cyunrei/Cyunrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
